@@ -1,7 +1,7 @@
 # About open source
 Baldi's Basics Open Source Tool is a decompile of Baldi's Basics Classic 1.4.3 and 1 Year Birthday Bash that aims to be a base, simpler for modding, and fixes bugs while keeping everything like how it was in the original games.
 # Owner of property
-Baldi and all characters are property of mystman12. All code, assets, and music are owned by mystman12. We have nothing to do with mystman12, this is a fanmade decompile of the game. We are not responsible for anything made with said decompile, but you may not use this decompile for commercial purposes. This includes ads, ingame-purchases etc. By using this tool or playing any mods created with this tool you agree to the conditions above.
+Baldi and all characters are property of mystman12. All code, assets, and music are owned by mystman12. We have nothing to do with mystman12, this is a fanmade decompile of the game. but you may not use this decompile for commercial purposes.
 # 🛠️ What Is a Decompile?
 A decompile means taking the compiled game (in this case, usually made in Unity) and reversing it back into a form you can read or edit. This lets fans:
 * Look at the game’s code
